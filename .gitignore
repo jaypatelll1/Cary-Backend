@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+
+# Node modules
+node_modules/
+
+# Build files
+build/
+dist/
+*.bundle.js
+
+# Environment variables
+.env
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# OS or editor specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
